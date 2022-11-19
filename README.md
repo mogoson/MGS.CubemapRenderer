@@ -27,10 +27,5 @@
 1. Click the "Render" button to open the dialog of save new render cubemap.
 1. Select a path and input a file name to dialog and save.
 
-## Preview
-- Cubemap Renderer
-
-![Cubemap Renderer](./Attachment/images/CubemapRenderer.gif)
-
 ------
 Copyright © 2021 Mogoson.	mogoson@outlook.com
