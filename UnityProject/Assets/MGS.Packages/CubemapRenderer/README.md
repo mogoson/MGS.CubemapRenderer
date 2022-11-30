@@ -8,6 +8,10 @@
 - Unity 5.0 or above.
 - .Net Framework 3.5 or above.
 
+## Version
+
+- 1.0.0
+
 ## Demand
 
 - Render a scene into a static Cubemap asset for Skybox material or reflective material.
