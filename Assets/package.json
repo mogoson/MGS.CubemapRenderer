@@ -1,0 +1,16 @@
+{
+    "name": "com.mgs.cubemaprenderer",
+    "version": "1.0.0",
+    "displayName": "Cubemap Renderer",
+    "description": "Unity Cubemap renderer.",
+    "unity": "2021.3",
+    "keywords": [
+        "cubemap",
+        "renderer"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://github.com/mogoson"
+    }
+}
