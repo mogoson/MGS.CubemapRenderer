@@ -13,7 +13,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace MGS.CubemapRenderer
+namespace MGS.CubemapRenderer.Editors
 {
     public class CubemapRenderEditor : ScriptableWizard
     {
