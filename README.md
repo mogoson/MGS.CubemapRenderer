@@ -24,7 +24,7 @@
 - Select path and input file name to save the render Cubemap.
 
 ## Usage
-1. Find the menu item "Tool/Cubemap Renderer" in Unity editor menu bar and click it or press key combination Alt+C to open the editor window.
+1. Find the menu item "Tools/Cubemap Renderer" in Unity editor menu bar and click it or press key combination Alt+C to open the editor window.
 1. Create/Select a scene camera as the "Camera" field if no MainCamera in your scene.
 1. Config the "Size", "Format" and "Mipmap" fields.
 1. Click the "Render" button to open the dialog of save new render cubemap.

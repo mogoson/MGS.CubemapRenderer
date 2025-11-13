@@ -32,7 +32,7 @@ namespace MGS.CubemapRenderer.Editors
         #endregion
 
         #region Private Method
-        [MenuItem("Tool/Cubemap Renderer &C")]
+        [MenuItem("Tools/Cubemap Renderer &C")]
         private static void ShowEditor()
         {
             DisplayWizard("Cubemap Renderer", typeof(CubemapRenderEditor), "Render");
